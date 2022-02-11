@@ -47,27 +47,25 @@ como necesitemos para cada una de las sesiones.
 ## Iniciar la App: Pantalla principal
 Al iniciar la App nos aparece la siguiente pantalla:
 
-<img src="images/imagen5.png" alt="pikku-kit"/>
+<img src="images/imagen5.png" alt="pikku-kit" width="640" height="380"/>
 
 ## Configuración
 Desde esta pantalla podemos gestionar el enlace de los dispositivos (enlazar o borrar) y
 configurar los perfiles que usaremos en la captura de datos.
 
-<img src="images/imagen6.png" alt="pikku-kit"/>
+<img src="images/imagen6.png" alt="pikku-kit" width="400" height="400"/>
 
 ### Enlazar dispositivos
 Si accedemos al menú “Enlazar Dispositivos” podemos enlazar los dispositivos <img src="images/imagen7.png" width="30px" height="30px"/> o borrar el enlace <img src="images/imagen8.png" width="30px" height="30px"/>
 
-<img src="images/imagen9.png" alt="pikku-kit"/>
+<img src="images/imagen9.png" alt="pikku-kit" width="400" height="400"/>
 
 Al presionar el icono Enlazar Dispositivo <img src="images/imagen7.png" width="30px" height="30px" alt="pikku-kit"/>, nos aparecerá la siguiente pantalla:
 
-<img src="images/imagen10.png" alt="pikku-kit"/>
+<img src="images/imagen10.png" alt="pikku-kit" width="300" height="500"/>
 
 Cuando aparezca la pantalla anterior, encenderemos el dispositivo presionando el botón
-azul o si ya está encendido, lo presionaremos:
-
-<img src="images/imagen11.png" alt="pikku-kit"/>
+azul o si ya está encendido, lo presionaremos.
 
 El pikku de la pantalla pasará de color transparente a color intenso, indicando así que el
 enlace se ha realizado. También aparecerá la MAC del dispositivo enlazado. Este enlace se guardará y no se borrará mientras no se elimine mediante el botón <img src="images/imagen8.png" width="30px" height="30px"/> o enlazando otro dispositivo.
@@ -313,11 +311,11 @@ Almacenamiento Interno>Pikkulab>
 
 Para más información:
 
-Email: info@pikkusports.com
+Email: info@blautic.com
 
-URL: www.pikkusports.com
+URL: www.blautic.com
 
-Pikkusports es una marca registrada de Blautic Design, S.L.
+Pikku es una marca registrada de Blautic Designs, S.L.
 
 <img src="images/imagen47.png"/>
 
