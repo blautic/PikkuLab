@@ -17,8 +17,7 @@ Los sensores de giro y acelerometría tienen los siguientes ejes y signos:
 
 Las unidades y rangos que se usan en cada sensor son las siguientes:
 
- - **ACELEROMETRO:** Aceleración en g’s (1g equivale a 9,8m/sg2). Rango ± 16G.
-Programable a ± 2G, ± 4G. ± 8G. ± 16G 
+ - **ACELEROMETRO:** Aceleración en g’s (1g equivale a 9,8m/sg2). Rango ± 16G. Programable a ± 2G, ± 4G. ± 8G. ± 16G 
 - **GIROSCOPIO:** Velocidad angular en º/s (grados por segundo). Rango ± 2.000 º/s. Programable a ± 250,± 500,± 1.000 y ± 2.000 º/s 
 
 Los pasos a seguir para utilizar el sistema son los siguientes:
