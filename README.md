@@ -1,4 +1,7 @@
-# Introducción
+<img src="images/producto-pikku-lab-presenta-3-600x450.jpg" alt="pikku-kit"/>
+
+# Documentación PikkuLab
+
 El siguiente documento explica el funcionamiento de la App PikkuLab, desarrollada para
 la visualización, almacenamiento y análisis de los datos generados actualmente por un
 máximo de 4 dispositivos inalámbricos, provistos cada uno de ellos de acelerómetro,
