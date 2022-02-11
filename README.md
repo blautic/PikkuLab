@@ -10,5 +10,6 @@ Los dispositivos y el móvil o tableta se comunican mediante transmisión inalá
 ## Cambios respecto de la versión anterior
 Cambios respecto a la versión anterior (V5):
 - Nueva apariencia de la App
-- Añadido en ratios más funcionalidades: Análisis de Ángulos en Marcha para pierna
-- Izquierda y comparativa de ángulos en línea
+- Opción de captación de vídeos con identificación de esqueleto con IA y datos de sensores simultáneamente
+- Nuevas funcionalidades en el apartado de Ratios
+
